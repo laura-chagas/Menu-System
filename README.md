@@ -1,4 +1,4 @@
-# Cardápio Digital - Aplicação Backend
+# Cardápio Digital - Aplicação Backend.
 
 Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante um tutorial no YouTube.
 A aplicação foi desenvolvida usando **Java, Spring e Postgres**.
